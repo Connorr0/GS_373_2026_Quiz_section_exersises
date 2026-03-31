@@ -14,3 +14,7 @@ If you don't have your conda envoroment set upyou can do some of these exercises
 2. Copy the URL from your browser
 3. Replace `github.com` with `githubtocolab.com` in the URL and hit enter
 4. The notebook will open directly in Google Colab — no setup required!
+
+## Additional resources
+
+Khan academy has a great series on introductory coding. It is in Java Script, but the concepts are the same as python: https://www.khanacademy.org/computing/computer-programming
